@@ -462,9 +462,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/rag-chatbot/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/rag-chatbot/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/Janesh-2004/rag-chatbot/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Janesh-2004/rag-chatbot/discussions)
+- **Email:** janesh04rapeti@gmail.com
 
 ---
 
@@ -488,6 +488,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by Janeswar RAPETI (https://github.com/Janesh-2004)**
 
 If you find this project useful, please consider giving it a ⭐!
